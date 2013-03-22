@@ -128,7 +128,7 @@
                     + ". If you need help may I recommend http://www.octgn.net/help ?");
                 this.Message(
                     "If you need to report an issue you can always do that here https://github.com/kellyelton/OCTGN/issues .");
-                this.Message("If you are feeling patient, please, stick around and someone will be with you shortly.");
+                this.Message("If you feel patient, you can ask you question here. Please be aware that it can take awhile to get a reply, so it is highly recommended to use one of the above methods first.");
             }
             else
             {
